@@ -1,4 +1,4 @@
-## Hi there 👋
+## I'm a highly passionate BE/CE student @BU 
 My specialization interests involve: EECS (Electrical Engineering and Computing), DSP & HCI related, Neuroengineering (neural computation, signals and information data processing), developing BCI neurotechnology or implantable/wearable electronics devices, large scale machine learning, Software engineering & System Design 
 
 Projects portfolio:
