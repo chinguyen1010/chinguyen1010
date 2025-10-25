@@ -3,13 +3,16 @@ My specialization interests involve: EECS (Electrical Engineering and Computing)
 
 Projects portfolio:
 Github: https://github.com/chinguyen1010
+
 Kaggle Notebooks (Data Sci/ML projects): https://www.kaggle.com/chinguyenbmebu
+
 Codalab: https://www.codabench.org/tasks/
+
 Huggingface 🤗: https://huggingface.co/lchinguyen
+
 LangChain 🦜🔗: https://smith.langchain.com/o/3113883a-2fe4-40d8-baf2-0afbd024d81d/projects
 
-Hackathons portfolio:
-https://devpost.com/chi2006-bme
+Hackathons portfolio: https://devpost.com/chi2006-bme
 
 Let’s Connect! 
 Email: chi2006@bu.edu
