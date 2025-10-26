@@ -17,7 +17,7 @@ LangChain: https://smith.langchain.com/o/3113883a-2fe4-40d8-baf2-0afbd024d81d/pr
 Hackathons portfolio: https://devpost.com/chi2006-bme
 
 Let’s Connect! 
-Email: chi2006@bu.edu
+
 
 <!--
 **chinguyen1010/chinguyen1010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
