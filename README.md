@@ -4,9 +4,8 @@ My specialization interests involve: EECS (Electrical Engineering and Computing)
 Goggle Scholar: https://scholar.google.com/citations?hl=en&user=gYnNLHUAAAAJ&view_op=list_works&gmla=AKzYXQ36Gsap0AtoQjPmwF2ZHmQ5i3b2MIEkbqgKCpCL2BYxALMbF5Id5hU3TkV0pJlFxTuhnshgoJZiBBrp0DBJ
 
 Projects portfolio:
-Github: https://github.com/chinguyen1010
 
-Kaggle Notebooks (Data Sci/ML projects): https://www.kaggle.com/chinguyenbmebu
+Kaggle (Data Sci/ML projects): https://www.kaggle.com/chinguyenbmebu
 
 Codalab: https://www.codabench.org/tasks/
 
