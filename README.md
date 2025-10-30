@@ -5,8 +5,6 @@ Projects portfolio:
 
 Kaggle (Data Sci/ML projects): https://www.kaggle.com/chinguyenbmebu
 
-Codalab: https://www.codabench.org/tasks/
-
 Huggingface: https://huggingface.co/lchinguyen
 
 
