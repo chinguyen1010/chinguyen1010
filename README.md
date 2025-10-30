@@ -1,7 +1,7 @@
 ## BE/CE sophomore student @BU
 My specialization interests involve: EECS (Electrical Engineering and Computing), DSP & HCI related, Neuroengineering (neural computation, signals and information data processing), Neurotechnology hardware/ BCI, large scale machine learning, Software engineering & System Design 
 
-Projects portfolio:
+Projects portfolio: Please feel free to check it out!
 
 Kaggle (Data Sci/ML projects): https://www.kaggle.com/chinguyenbmebu
 
@@ -11,6 +11,7 @@ Huggingface: https://huggingface.co/lchinguyen
 Hackathons portfolio: https://devpost.com/chi2006-bme
 
 Let’s Connect! 
+email: chi2006@bu.edu
 
 
 <!--
