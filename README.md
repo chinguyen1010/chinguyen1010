@@ -7,6 +7,7 @@ Kaggle (Data Sci/ML projects): https://www.kaggle.com/chinguyenbmebu
 
 Huggingface: https://huggingface.co/lchinguyen
 
+LangChain: https://smith.langchain.com/o/3113883a-2fe4-40d8-baf2-0afbd024d81d/projects#
 
 Hackathons portfolio: https://devpost.com/chi2006-bme
 
