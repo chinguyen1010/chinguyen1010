@@ -11,7 +11,7 @@ Huggingface: https://huggingface.co/lchinguyen
 
 Hackathons portfolio: https://devpost.com/lchinguyen
 
-Interested: CS, DS, Neuroscience, Engineering
+Activities: CS, DS, Neuroscience, Engineering
 <!--
 **chinguyen1010/chinguyen1010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
