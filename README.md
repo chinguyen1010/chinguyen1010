@@ -3,7 +3,7 @@ My specialization interests involve: EECS (Electrical Engineering and Computing)
 
 Projects portfolio: Please feel free to check it out :)
 
-Github: 
+Github: https://github.com/chinguyen1010
 
 Kaggle (Data Sci/ML projects): https://www.kaggle.com/chinguyenbmebu
 
