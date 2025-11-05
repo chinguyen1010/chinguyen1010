@@ -1,5 +1,5 @@
 ## BE/CE sophomore student @BU
-My specialization interests involve: EECS (Electrical Engineering and Computing), DSP & HCI related, Neuroengineering (neural computation and cognition, signals and information data processing), Neurotechnology hardware/ BCI, VSLI chip design, and Software engineering
+My specialization interests involve: EECS (Electrical Engineering and Computing), DSP & HCI related, Neuroengineering (neural computation and cognition, signals and information data processing), Neurotechnology hardware/ BCI, VLSI chip design, and Software engineering
 
 Projects portfolio: Please feel free to check it out :)
 
