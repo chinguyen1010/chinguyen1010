@@ -11,10 +11,6 @@ Huggingface: https://huggingface.co/lchinguyen
 
 Hackathons portfolio: https://devpost.com/lchinguyen
 
-Let’s Connect! 
-
-email: chi2006@bu.edu
-
 Interested: CS, DS, Neuroscience, Engineering
 <!--
 **chinguyen1010/chinguyen1010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
