@@ -1,7 +1,9 @@
 ## BE/CE sophomore student @BU
-My specialization interests involve: EECS (Electrical Engineering and Computing), DSP & HCI related, Neuroengineering (neural computation and cognition, signals and information data processing), Neurotechnology hardware/ BCI, large scale machine learning, and Software engineering
+My specialization interests involve: EECS (Electrical Engineering and Computing), DSP & HCI related, Neuroengineering (neural computation and cognition, signals and information data processing), Neurotechnology hardware/ BCI, and Software engineering
 
 Projects portfolio: Please feel free to check it out :)
+
+Github: 
 
 Kaggle (Data Sci/ML projects): https://www.kaggle.com/chinguyenbmebu
 
@@ -13,7 +15,7 @@ Let’s Connect!
 
 email: chi2006@bu.edu
 
-
+Interested: CS, DS, Neuroscience, Engineering
 <!--
 **chinguyen1010/chinguyen1010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
