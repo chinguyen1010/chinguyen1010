@@ -9,7 +9,7 @@ Kaggle (Data Sci/ML projects): https://www.kaggle.com/chinguyenbmebu
 
 Huggingface: https://huggingface.co/lchinguyen
 
-Hackathons portfolio: https://devpost.com/chi2006-bme
+Hackathons portfolio: https://devpost.com/lchinguyen
 
 Let’s Connect! 
 
