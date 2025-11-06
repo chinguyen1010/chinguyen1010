@@ -1,7 +1,9 @@
 ## BE/CE sophomore student @BU
 My specialization interests involve: EECS (Electrical Engineering and Computing), DSP & HCI related, Neuroengineering (neural and cognition computation, signals and information data processing), Neurotechnology hardware/ BCI, and Software engineering
 
-Projects portfolio: Please feel free to check it out :)
+Projects portfolio: Please feel free to check all my Github repo :)
+
+(Everything will be update via github)
 
 Github: https://github.com/chinguyen1010
 
