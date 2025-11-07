@@ -3,7 +3,7 @@ My specialization interests involve: EECS (Electrical Engineering and Computing)
 
 Projects portfolio: Please feel free to check all my Github repo :)
 
-(Everything will be update via github)
+(Everything will be update via Github)
 
 Github: https://github.com/chinguyen1010
 
