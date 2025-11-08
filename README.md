@@ -1,7 +1,7 @@
 ## BE/CE sophomore student @BU
 My specialization interests involve: EECS (Electrical Engineering and Computing), DSP & HCI related, Neuroengineering (neural and cognition computation, signals and information data processing), Neurotechnology hardware/ BCI, and Software Engineering
 
-Currently anticipating a ML concentration
+Currently anticipating a ML concentration at BU 
 
 Projects portfolio: Please feel free to check all my Github repo :)
 
