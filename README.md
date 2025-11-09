@@ -16,4 +16,4 @@ Hackathons portfolio: https://devpost.com/lchinguyen
 
 Activities: CS, DS, Neuroscience, Engineering
 
-Currently anticipating a ML concentration at BU
+Currently anticipating a ML concentration
