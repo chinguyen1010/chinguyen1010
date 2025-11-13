@@ -10,8 +10,6 @@ Github: https://github.com/chinguyen1010
 
 Kaggle (Data Sci/ML projects): https://www.kaggle.com/chinguyenbmebu
 
-Huggingface: https://huggingface.co/lchinguyen
-
 Hackathons portfolio: https://devpost.com/lchinguyen
 
 Activities: CS, DS, Neuroscience, Engineering
