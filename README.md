@@ -2,7 +2,7 @@
 My specialization interests involve: EECS (Electrical Engineering and Computing), DSP & HCI related, statistical machine learning, Neuroengineering (neural and cognition computation, signals and information data processing), Neurotechnology hardware/ BCI, and Software Engineering 
 
 
-(update everything via Github since I can't update every project on all platform)
+(update everything via Github since I currently dont have enough time update every project on all platform)
 
 Github: https://github.com/chinguyen1010
 
