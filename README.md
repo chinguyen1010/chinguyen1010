@@ -1,5 +1,5 @@
 ## BE/CE sophomore student @BU
-My specialization interests involve: Computing, DSP &amp; HCI related, statistical machine learning, Neuroengineering/BCI, and Software Engineering
+My specialization interests involve: Computing, DSP & HCI related, statistical machine learning, Neuroengineering/Brain-Computer Interfaces, and Software Engineering
 
 Projects portfolio: Everything will be update via Github, please feel free to check out my ongoing work
 
