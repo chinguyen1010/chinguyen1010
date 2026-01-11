@@ -6,7 +6,7 @@ My strong background in Electrical Engineering and Computer Sciences, Signal Pro
 My work was driven by commitment, passion, and innovation to create meaningful impact that enhance people’s lives and experiences, benefits all humanity and beyond.
 
 Github: https://github.com/chinguyen1010
-Kaggle: https://www.kaggle.com/chilinhnguyen
+
 Devpost: https://devpost.com/ChiLinhNguyen
 
 I’m currently looking for a Research/ML Engineer intern roles at Entry-level, focus mostly in Applied Research Software Team, or Labs, so let’s connect!
