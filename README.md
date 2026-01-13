@@ -9,6 +9,5 @@ Github: https://github.com/chinguyen1010
 
 Devpost: https://devpost.com/ChiLinhNguyen
 
-I’m currently looking for a Research/ML Engineer intern roles at Entry-level, focus mostly in Applied Research Software Team, or Labs, so let’s connect!
 
 
